@@ -2,5 +2,5 @@
 https://github.com/shanon-richet
 
 
-! (image.jpg)
+! [an image](image.jpg)
 
