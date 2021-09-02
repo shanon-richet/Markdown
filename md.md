@@ -1,12 +1,13 @@
 
 
 ### Shanon Richet
-# https://github.com/shanon-richet
+### https://github.com/shanon-richet
 
 
 ![mr gasmask](image.jpg)
 
-## My favorite musics
+## My favorite music artists
 
-# Artist and title    |       About
+|   #Names    |   Genre    |
+| 
 
